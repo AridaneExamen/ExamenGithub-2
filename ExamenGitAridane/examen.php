@@ -1,4 +1,4 @@
 <?php
 echo "escribe un comentario";
-echo "añadir segundo echo";
+echo "añadir segundos echo";
 ?>
